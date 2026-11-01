@@ -1,0 +1,223 @@
+FIT: train=1445; selection=236 windows/19 flights; audit not scored
+search z=16 beta=0.001 seed=2026 epoch=10 (+10) J=0.33586
+search z=16 beta=0.001 seed=2026 epoch=20 (+10) J=0.33586
+search z= 4 beta=0.003 seed=2026 epoch=10 (+10) J=0.31919
+search z= 4 beta=0.003 seed=2026 epoch=20 (+10) J=0.31919
+search z=24 beta=0.01 seed=2026 epoch=10 (+10) J=0.34347
+search z=24 beta=0.01 seed=2026 epoch=20 (+10) J=0.33822
+search z=32 beta=0.003 seed=2026 epoch=10 (+10) J=0.33069
+search z=32 beta=0.003 seed=2026 epoch=20 (+10) J=0.33069
+search z=16 beta=0.003 seed=2026 epoch=10 (+10) J=0.33563
+search z=16 beta=0.003 seed=2026 epoch=20 (+10) J=0.33563
+search z=12 beta=0.0003 seed=2026 epoch=10 (+10) J=0.33791
+search z=12 beta=0.0003 seed=2026 epoch=20 (+10) J=0.33791
+search z=12 beta=0.01 seed=2026 epoch=10 (+10) J=0.33875
+search z=12 beta=0.01 seed=2026 epoch=20 (+10) J=0.33875
+search z= 4 beta=0.001 seed=2026 epoch=10 (+10) J=0.31924
+search z= 4 beta=0.001 seed=2026 epoch=20 (+10) J=0.31924
+search z=16 beta=0.0003 seed=2026 epoch=10 (+10) J=0.33595
+search z=16 beta=0.0003 seed=2026 epoch=20 (+10) J=0.33595
+search z= 8 beta=0.001 seed=2026 epoch=10 (+10) J=0.31729
+search z= 8 beta=0.001 seed=2026 epoch=20 (+10) J=0.31729
+search z=32 beta=0.0001 seed=2026 epoch=10 (+10) J=0.33020
+search z=32 beta=0.0001 seed=2026 epoch=20 (+10) J=0.33020
+search z=24 beta=0.001 seed=2026 epoch=10 (+10) J=0.34328
+search z=24 beta=0.001 seed=2026 epoch=20 (+10) J=0.34328
+search z=24 beta=0.0001 seed=2026 epoch=10 (+10) J=0.34146
+search z=24 beta=0.0001 seed=2026 epoch=20 (+10) J=0.34146
+search z= 8 beta=0.0001 seed=2026 epoch=10 (+10) J=0.31704
+search z= 8 beta=0.0001 seed=2026 epoch=20 (+10) J=0.31704
+search z= 8 beta=0.01 seed=2026 epoch=10 (+10) J=0.31811
+search z= 8 beta=0.01 seed=2026 epoch=20 (+10) J=0.31786
+search z= 8 beta=0.003 seed=2026 epoch=10 (+10) J=0.31751
+search z= 8 beta=0.003 seed=2026 epoch=20 (+10) J=0.31751
+SEARCH random_search seed=11 winner=5 score=0.317039 logical_epochs=320
+search z=16 beta=0.01 seed=2026 epoch=10 (+10) J=0.33463
+search z=16 beta=0.01 seed=2026 epoch=20 (+10) J=0.33463
+search z=32 beta=0.001 seed=2026 epoch=10 (+10) J=0.33058
+search z=32 beta=0.001 seed=2026 epoch=20 (+10) J=0.33058
+search z= 4 beta=0.01 seed=2026 epoch=10 (+10) J=0.31883
+search z= 4 beta=0.01 seed=2026 epoch=20 (+10) J=0.31883
+search z=32 beta=0.01 seed=2026 epoch=10 (+10) J=0.33069
+search z=32 beta=0.01 seed=2026 epoch=20 (+10) J=0.33069
+search z=12 beta=0.0001 seed=2026 epoch=10 (+10) J=0.33737
+search z=12 beta=0.0001 seed=2026 epoch=20 (+10) J=0.33737
+search z=16 beta=0.0001 seed=2026 epoch=10 (+10) J=0.33610
+search z=16 beta=0.0001 seed=2026 epoch=20 (+10) J=0.33610
+search z= 4 beta=0.0001 seed=2026 epoch=10 (+10) J=0.31944
+search z= 4 beta=0.0001 seed=2026 epoch=20 (+10) J=0.31944
+SEARCH genetic_search seed=11 winner=5 score=0.317039 logical_epochs=320
+search z= 8 beta=0.0001 seed=2027 epoch=10 (+10) J=0.33471
+search z= 8 beta=0.0001 seed=2027 epoch=20 (+10) J=0.33471
+search z= 8 beta=0.001 seed=2027 epoch=10 (+10) J=0.33445
+search z= 8 beta=0.001 seed=2027 epoch=20 (+10) J=0.33445
+search z= 8 beta=0.003 seed=2027 epoch=10 (+10) J=0.33397
+search z= 8 beta=0.003 seed=2027 epoch=20 (+10) J=0.33397
+search z= 8 beta=0.01 seed=2027 epoch=10 (+10) J=0.33345
+search z= 8 beta=0.01 seed=2027 epoch=20 (+10) J=0.33345
+search z= 8 beta=0.01 seed=2028 epoch=10 (+10) J=0.32055
+search z= 8 beta=0.01 seed=2028 epoch=20 (+10) J=0.31870
+search z= 8 beta=0.003 seed=2028 epoch=10 (+10) J=0.32205
+search z= 8 beta=0.003 seed=2028 epoch=20 (+10) J=0.32205
+SEARCH verified_random seed=11 winner=9 score=0.323336 logical_epochs=320
+search z= 4 beta=0.01 seed=2027 epoch=10 (+10) J=0.32259
+search z= 4 beta=0.01 seed=2027 epoch=20 (+10) J=0.32259
+search z= 4 beta=0.01 seed=2028 epoch=10 (+10) J=0.31735
+search z= 4 beta=0.01 seed=2028 epoch=20 (+10) J=0.31521
+SEARCH verified_genetic seed=11 winner=4 score=0.318879 logical_epochs=320
+search z=24 beta=0.003 seed=2026 epoch=10 (+10) J=0.34324
+search z=12 beta=0.003 seed=2026 epoch=10 (+10) J=0.33833
+search z=12 beta=0.001 seed=2026 epoch=10 (+10) J=0.33822
+SEARCH verified_neighbor seed=11 winner=4 score=0.318879 logical_epochs=320
+search z=24 beta=0.0003 seed=2026 epoch=10 (+10) J=0.34277
+search z=24 beta=0.0003 seed=2026 epoch=20 (+10) J=0.34277
+search z= 8 beta=0.0003 seed=2026 epoch=10 (+10) J=0.31724
+search z= 8 beta=0.0003 seed=2026 epoch=20 (+10) J=0.31724
+search z=12 beta=0.001 seed=2026 epoch=20 (+10) J=0.33822
+search z=32 beta=0.0003 seed=2026 epoch=10 (+10) J=0.33036
+search z=32 beta=0.0003 seed=2026 epoch=20 (+10) J=0.33036
+SEARCH random_search seed=22 winner=6 score=0.317239 logical_epochs=320
+search z=12 beta=0.003 seed=2026 epoch=20 (+10) J=0.33833
+search z=24 beta=0.003 seed=2026 epoch=20 (+10) J=0.34324
+SEARCH genetic_search seed=22 winner=5 score=0.317039 logical_epochs=320
+search z= 8 beta=0.0003 seed=2027 epoch=10 (+10) J=0.33442
+search z= 8 beta=0.0003 seed=2027 epoch=20 (+10) J=0.33442
+search z= 4 beta=0.001 seed=2027 epoch=10 (+10) J=0.32257
+search z= 4 beta=0.001 seed=2027 epoch=20 (+10) J=0.32257
+search z= 4 beta=0.0001 seed=2027 epoch=10 (+10) J=0.32313
+search z= 4 beta=0.0001 seed=2027 epoch=20 (+10) J=0.32313
+search z= 4 beta=0.001 seed=2028 epoch=10 (+10) J=0.31633
+search z= 4 beta=0.001 seed=2028 epoch=20 (+10) J=0.31509
+SEARCH verified_random seed=22 winner=4 score=0.318879 logical_epochs=320
+search z= 8 beta=0.0003 seed=2028 epoch=10 (+10) J=0.32418
+search z= 8 beta=0.0003 seed=2028 epoch=20 (+10) J=0.32418
+SEARCH verified_genetic seed=22 winner=8 score=0.324511 logical_epochs=320
+search z= 4 beta=0.0003 seed=2026 epoch=10 (+10) J=0.31933
+SEARCH verified_neighbor seed=22 winner=8 score=0.324511 logical_epochs=320
+search z= 4 beta=0.0003 seed=2026 epoch=20 (+10) J=0.31933
+SEARCH random_search seed=33 winner=8 score=0.317513 logical_epochs=320
+SEARCH genetic_search seed=33 winner=4 score=0.318831 logical_epochs=320
+search z= 4 beta=0.0003 seed=2027 epoch=10 (+10) J=0.32279
+search z= 4 beta=0.0003 seed=2027 epoch=20 (+10) J=0.32279
+search z=32 beta=0.0001 seed=2027 epoch=10 (+10) J=0.33629
+search z=32 beta=0.0001 seed=2027 epoch=20 (+10) J=0.33629
+search z=32 beta=0.0003 seed=2027 epoch=10 (+10) J=0.33677
+search z=32 beta=0.0003 seed=2027 epoch=20 (+10) J=0.33677
+search z= 4 beta=0.0003 seed=2028 epoch=10 (+10) J=0.31624
+search z= 4 beta=0.0003 seed=2028 epoch=20 (+10) J=0.31534
+SEARCH verified_random seed=33 winner=1 score=0.319153 logical_epochs=320
+search z= 4 beta=0.003 seed=2027 epoch=10 (+10) J=0.32281
+search z= 4 beta=0.003 seed=2027 epoch=20 (+10) J=0.32281
+SEARCH verified_genetic seed=33 winner=4 score=0.318879 logical_epochs=320
+search z= 4 beta=0.003 seed=2028 epoch=10 (+10) J=0.31647
+search z= 4 beta=0.003 seed=2028 epoch=20 (+10) J=0.31480
+SEARCH verified_neighbor seed=33 winner=3 score=0.318935 logical_epochs=320
+SEARCH random_search seed=44 winner=6 score=0.317239 logical_epochs=320
+SEARCH genetic_search seed=44 winner=5 score=0.317039 logical_epochs=320
+SEARCH verified_random seed=44 winner=4 score=0.318879 logical_epochs=320
+SEARCH verified_genetic seed=44 winner=8 score=0.324511 logical_epochs=320
+SEARCH verified_neighbor seed=44 winner=8 score=0.324511 logical_epochs=320
+SEARCH random_search seed=55 winner=6 score=0.317239 logical_epochs=320
+SEARCH genetic_search seed=55 winner=4 score=0.318831 logical_epochs=320
+SEARCH verified_random seed=55 winner=4 score=0.318879 logical_epochs=320
+SEARCH verified_genetic seed=55 winner=4 score=0.318879 logical_epochs=320
+search z=32 beta=0.001 seed=2027 epoch=10 (+10) J=0.33746
+search z=32 beta=0.001 seed=2027 epoch=20 (+10) J=0.33746
+SEARCH verified_neighbor seed=55 winner=3 score=0.318935 logical_epochs=320
+SEARCH random_search seed=66 winner=5 score=0.317039 logical_epochs=320
+SEARCH genetic_search seed=66 winner=5 score=0.317039 logical_epochs=320
+SEARCH verified_random seed=66 winner=4 score=0.318879 logical_epochs=320
+SEARCH verified_genetic seed=66 winner=8 score=0.324511 logical_epochs=320
+SEARCH verified_neighbor seed=66 winner=3 score=0.318935 logical_epochs=320
+SEARCH random_search seed=77 winner=5 score=0.317039 logical_epochs=320
+SEARCH genetic_search seed=77 winner=5 score=0.317039 logical_epochs=320
+SEARCH verified_random seed=77 winner=4 score=0.318879 logical_epochs=320
+SEARCH verified_genetic seed=77 winner=4 score=0.318879 logical_epochs=320
+SEARCH verified_neighbor seed=77 winner=9 score=0.323336 logical_epochs=320
+SEARCH random_search seed=88 winner=5 score=0.317039 logical_epochs=320
+SEARCH genetic_search seed=88 winner=5 score=0.317039 logical_epochs=320
+SEARCH verified_random seed=88 winner=3 score=0.318935 logical_epochs=320
+SEARCH verified_genetic seed=88 winner=2 score=0.318967 logical_epochs=320
+SEARCH verified_neighbor seed=88 winner=9 score=0.323336 logical_epochs=320
+SEARCH random_search seed=99 winner=5 score=0.317039 logical_epochs=320
+SEARCH genetic_search seed=99 winner=6 score=0.317239 logical_epochs=320
+SEARCH verified_random seed=99 winner=4 score=0.318879 logical_epochs=320
+SEARCH verified_genetic seed=99 winner=9 score=0.323336 logical_epochs=320
+search z= 8 beta=0.0001 seed=2028 epoch=10 (+10) J=0.32424
+search z= 8 beta=0.0001 seed=2028 epoch=20 (+10) J=0.32424
+search z=32 beta=0.0001 seed=2028 epoch=10 (+10) J=0.35457
+search z=32 beta=0.0001 seed=2028 epoch=20 (+10) J=0.35457
+SEARCH verified_neighbor seed=99 winner=5 score=0.325329 logical_epochs=320
+SEARCH random_search seed=110 winner=5 score=0.317039 logical_epochs=320
+SEARCH genetic_search seed=110 winner=6 score=0.317239 logical_epochs=320
+SEARCH verified_random seed=110 winner=3 score=0.318935 logical_epochs=320
+search z= 4 beta=0.0001 seed=2028 epoch=10 (+10) J=0.31585
+search z= 4 beta=0.0001 seed=2028 epoch=20 (+10) J=0.31566
+SEARCH verified_genetic seed=110 winner=3 score=0.318935 logical_epochs=320
+SEARCH verified_neighbor seed=110 winner=6 score=0.325281 logical_epochs=320
+final_fixed id=17 z=16 beta=0.001 seed=511 epochs=29 best_J=0.33028 seconds=5.3
+final_fixed id=17 z=16 beta=0.001 seed=522 epochs=17 best_J=0.33074 seconds=3.1
+final_fixed id=17 z=16 beta=0.001 seed=533 epochs=15 best_J=0.35022 seconds=2.8
+final_random_search id=05 z= 8 beta=0.0001 seed=511 epochs=20 best_J=0.32898 seconds=3.9
+final_random_search id=05 z= 8 beta=0.0001 seed=522 epochs=17 best_J=0.32147 seconds=3.3
+final_random_search id=05 z= 8 beta=0.0001 seed=533 epochs=19 best_J=0.33407 seconds=3.6
+final_verified_random id=09 z= 8 beta=0.01 seed=511 epochs=40 best_J=0.32183 seconds=7.5
+final_verified_random id=09 z= 8 beta=0.01 seed=522 epochs=17 best_J=0.32189 seconds=3.2
+final_verified_random id=09 z= 8 beta=0.01 seed=533 epochs=19 best_J=0.33173 seconds=3.6
+final_verified_genetic id=04 z= 4 beta=0.01 seed=511 epochs=19 best_J=0.31941 seconds=3.6
+final_verified_genetic id=04 z= 4 beta=0.01 seed=522 epochs=47 best_J=0.31107 seconds=8.7
+final_verified_genetic id=04 z= 4 beta=0.01 seed=533 epochs=19 best_J=0.32157 seconds=3.6
+final_random_search id=06 z= 8 beta=0.0003 seed=511 epochs=20 best_J=0.32882 seconds=3.9
+final_random_search id=06 z= 8 beta=0.0003 seed=522 epochs=17 best_J=0.32161 seconds=3.2
+final_random_search id=06 z= 8 beta=0.0003 seed=533 epochs=19 best_J=0.33374 seconds=3.4
+final_verified_genetic id=08 z= 8 beta=0.003 seed=511 epochs=20 best_J=0.32974 seconds=3.6
+final_verified_genetic id=08 z= 8 beta=0.003 seed=522 epochs=17 best_J=0.32163 seconds=3.1
+final_verified_genetic id=08 z= 8 beta=0.003 seed=533 epochs=19 best_J=0.33281 seconds=3.6
+final_verified_random id=01 z= 4 beta=0.0003 seed=511 epochs=19 best_J=0.31967 seconds=3.4
+final_verified_random id=01 z= 4 beta=0.0003 seed=522 epochs=18 best_J=0.32659 seconds=3.2
+final_verified_random id=01 z= 4 beta=0.0003 seed=533 epochs=19 best_J=0.32220 seconds=3.5
+final_verified_neighbor id=03 z= 4 beta=0.003 seed=511 epochs=19 best_J=0.31952 seconds=3.5
+final_verified_neighbor id=03 z= 4 beta=0.003 seed=522 epochs=18 best_J=0.32612 seconds=3.3
+final_verified_neighbor id=03 z= 4 beta=0.003 seed=533 epochs=19 best_J=0.32202 seconds=3.4
+final_verified_genetic id=02 z= 4 beta=0.001 seed=511 epochs=19 best_J=0.31975 seconds=3.5
+final_verified_genetic id=02 z= 4 beta=0.001 seed=522 epochs=18 best_J=0.32660 seconds=3.3
+final_verified_genetic id=02 z= 4 beta=0.001 seed=533 epochs=19 best_J=0.32189 seconds=3.5
+FROZEN 153 logical positions/27 unique final models
+{
+  "fixed": {
+    "energy_score": 0.37779550448480936,
+    "improvement_over_fixed_percent": 0.0,
+    "improvement_over_random_search_percent": -1.0348403987430743,
+    "improvement_over_verified_random_percent": -2.6061562545034462
+  },
+  "random_search": {
+    "energy_score": 0.37392596751160834,
+    "improvement_over_fixed_percent": 1.0242411376699203,
+    "improvement_over_random_search_percent": 0.0,
+    "improvement_over_verified_random_percent": -1.5552217923629439
+  },
+  "genetic_search": {
+    "energy_score": 0.3724209243182032,
+    "improvement_over_fixed_percent": 1.4226162309515504,
+    "improvement_over_random_search_percent": 0.40249763968543883,
+    "improvement_over_verified_random_percent": -1.1464644216713706
+  },
+  "verified_random": {
+    "energy_score": 0.36819964637183034,
+    "improvement_over_fixed_percent": 2.5399609045281437,
+    "improvement_over_random_search_percent": 1.5314050473374066,
+    "improvement_over_verified_random_percent": 0.0
+  },
+  "verified_genetic": {
+    "energy_score": 0.3697172051708168,
+    "improvement_over_fixed_percent": 2.1382730122765086,
+    "improvement_over_random_search_percent": 1.125560326499892,
+    "improvement_over_verified_random_percent": -0.4121565063791342
+  },
+  "verified_neighbor": {
+    "energy_score": 0.37161117844131664,
+    "improvement_over_fixed_percent": 1.6369506704231813,
+    "improvement_over_random_search_percent": 0.6190500985251417,
+    "improvement_over_verified_random_percent": -0.926544091799895
+  }
+}
