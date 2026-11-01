@@ -1,0 +1,22 @@
+{
+  "source": "flight_dataset/CMU/flights.csv",
+  "window_seconds": 5.0,
+  "minimum_integration_fraction": 0.6,
+  "min_power_w": 50.0,
+  "max_power_w": 1500.0,
+  "max_dt_s": 2.0,
+  "split_seed": 42,
+  "split_strategy": "flight_level_random_60_20_20",
+  "included_routes": [
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5",
+    "R6",
+    "R7"
+  ],
+  "wind_angle_reference": "north",
+  "wind_angle_rotation": "assumed_clockwise",
+  "wind_direction_semantics": "assumed_toward"
+}
